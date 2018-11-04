@@ -1,9 +1,10 @@
-package com.zhaige;
+package com.zhaige.service;
 
 
+import com.zhaige.domain.Girl;
+import com.zhaige.respository.GirlRespository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
 @Service
 public class GirlService {

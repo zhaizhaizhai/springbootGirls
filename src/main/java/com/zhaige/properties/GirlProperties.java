@@ -1,4 +1,4 @@
-package com.zhaige;
+package com.zhaige.properties;
 
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

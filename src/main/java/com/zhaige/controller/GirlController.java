@@ -1,6 +1,9 @@
-package com.zhaige;
+package com.zhaige.controller;
 
 
+import com.zhaige.domain.Girl;
+import com.zhaige.respository.GirlRespository;
+import com.zhaige.service.GirlService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

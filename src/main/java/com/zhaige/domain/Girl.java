@@ -1,4 +1,4 @@
-package com.zhaige;
+package com.zhaige.domain;
 
 
 import javax.persistence.Entity;
